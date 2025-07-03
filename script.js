@@ -48,3 +48,5 @@ const translate = text => {
   return translatedWords.join(" ");
 };
 console.log(translate(text));
+// test: node script.js  with cours lade stop aude
+//result: ourscay adelay opstay audeway
