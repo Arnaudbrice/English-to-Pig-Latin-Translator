@@ -1,0 +1,22 @@
+{
+  "editor.fontFamily": "GopherMono-Regular,Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontSize": 14,
+  "auto-close-tag.excludedTags": [
+    "area",
+    "base",
+    "br",
+    "col",
+    "command",
+    "embed",
+    "hr",
+    "img",
+    "input",
+    "keygen",
+    "link",
+    "meta",
+    "param",
+    "source",
+    "track",
+    "wbr"
+  ]
+}
