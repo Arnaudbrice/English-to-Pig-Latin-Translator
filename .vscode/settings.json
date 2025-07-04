@@ -1,6 +1,6 @@
 {
   "editor.fontFamily": "GopherMono-Regular,Menlo, Monaco, 'Courier New', monospace",
-  "editor.fontSize": 14,
+  "editor.fontSize": 16,
   "auto-close-tag.excludedTags": [
     "area",
     "base",
@@ -18,5 +18,9 @@
     "source",
     "track",
     "wbr"
-  ]
+  ],
+  "editor.lineHeight": 1.5,
+  "debug.console.fontSize": 16,
+  "terminal.integrated.fontSize": 15,
+  "terminal.integrated.lineHeight": 1.5
 }
