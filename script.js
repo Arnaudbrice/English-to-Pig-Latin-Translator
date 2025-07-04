@@ -48,5 +48,8 @@ const translate = text => {
   return translatedWords.join(" ");
 };
 console.log(translate(text));
-// test: node script.js  with cours lade stop aude
-//result: ourscay adelay opstay audeway
+// test1: node script.js  with cours lade stop aude
+//result2: ourscay adelay opstay audeway
+
+//test2: node script.js "Pig Latin is hard to speak"
+//result2: Igpay Atinlay isway ardhay otay eakspay
